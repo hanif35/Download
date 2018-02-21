@@ -131,7 +131,7 @@ function auto_safeconvert() {<br />
         }<br />
         if (a_to_vh == false) {<br />
             var encryptedUrl = Base64.encode(a_to_vi);<br />
-            a_to_ve[i].href = "http://blog.romli.net/p/download.html?url=" + encryptedUrl;<br />
+            a_to_ve[i].href = "https://www.haluhalu.club/p/download.html?url=" + encryptedUrl;<br />
             a_to_ve[i].rel = "nofollow";<br />
             a_to_vb++;<br />
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";<br />
